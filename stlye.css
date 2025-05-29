@@ -1,0 +1,33 @@
+body{background:#E5AA70;}
+.main{ width:400px;
+margin: 0 auto;}
+img{width:100%;}
+h1{color:white;
+  display:flex;
+  justify-content: center;
+  align-content: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 35px;}
+
+
+
+
+
+
+
+
+
+input{
+  text-align: center;
+  width: 100px;
+  border-radius: 10px 40px 20px 30px;
+  background:white;
+  padding: 10px;
+  width: 110px;
+ 
+}
+
+input:hover {
+  background-color: wheat;
+  font-size: 18px;
+}
